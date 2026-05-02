@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background: #111;
+  overflow: hidden;
+}
+
+.stage {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.frame {
+  position: absolute;
+  max-width: 600px;
+  opacity: 0;
+}
+
+.frame.active {
+  opacity: 1;
+}
