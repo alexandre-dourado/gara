@@ -1,11 +1,11 @@
 const frames = [
-  "frame_0.png",
-  "frame_1.png",
-  "frame_2.png",
-  "frame_3.png",
-  "frame_4.png",
-  "frame_5.png",
-  "frame_6.png"
+  "https://raw.githubusercontent.com/alexandre-dourado/gara/refs/heads/main/frame_0.png",
+  "https://raw.githubusercontent.com/alexandre-dourado/gara/refs/heads/main/frame_1.png",
+  "https://raw.githubusercontent.com/alexandre-dourado/gara/refs/heads/main/frame_2.png",
+  "https://raw.githubusercontent.com/alexandre-dourado/gara/refs/heads/main/frame_3.png",
+  "https://raw.githubusercontent.com/alexandre-dourado/gara/refs/heads/main/frame_4.png",
+  "https://raw.githubusercontent.com/alexandre-dourado/gara/refs/heads/main/frame_5.png",
+  "https://raw.githubusercontent.com/alexandre-dourado/gara/refs/heads/main/frame_6.png"
 ];
 
 let currentFrame = 3;
